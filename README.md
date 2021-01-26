@@ -1,5 +1,6 @@
 # MD-SPSI-MKII-ae
-A bunch of drum/synth kits that I made for the  [_Elektron_](https://www.elektron.se/) _MachineDrum SPSI MKII_.
+A bunch of drum/synth kits that I made for the [_Elektron_](https://www.elektron.se/) _MachineDrum SPSI MKII_.
+The repo will be updated periodically.
 
 ## How To
 For this task you have to connect your machine to your PC through a MIDI cable. 
@@ -11,20 +12,23 @@ More info [here](https://www.elektronauts.com/news/486).
 If you are not familiar with sysex transfer, please refere to the [official manual](https://www.elektron.se/wp-content/uploads/2016/05/machinedrum_manual_OS1.63.pdf), section `global settings / file / sysex receive` (page 66). \
 In addition, if you want to place this kit after your personal kit, please refere to the section `./ specific place sysex receive` (page 68).
 
+**If you have the [machine](https://www.elektron.se/legacy-products/)**, I kindly suggest you to use the sysex file instead of the samples! _Elektron_ machines are beatiful worlds ready to explore, having a lot of stuff regarding randomicity, pattern configuration, LFOs, I/O routing and effects. 
+
 ## Configuration Details
 
-![Screenshot](machinedrum_top.jpeg)
+![Screenshot](machinedrum_top.png)
 
-<!---
-<p align="center"><img src="machinedrum_top.jpeg"></p>
--->
+![alt text](machinedrum_top.png "Title")
+
+<p align="center"><img src="machinedrum_top.png"></p>
+
 
 ## Specifics
 
 ### Audio Files
 sample frequency | bit depth | bitrate | channels | coding
 --- | --- | --- | --- | --- 
-`44.1 kHz` | `24bit` | `1411.2 kbp/s` | 2 | PCM Little/Signed
+`44.1kHz` | `24bit` | `2117kbp/s` | 2 | PCM Little/Signed
 
 ### Sysex Files
 name | global | kit | pattern | song | dsp engine | machine name | # machines | notes
