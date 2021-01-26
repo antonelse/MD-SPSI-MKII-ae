@@ -1,27 +1,25 @@
 # MD-SPSI-MKII-ae
-A bunch of drum/synth kits that I made for the [_Elektron_](https://www.elektron.se/) _MachineDrum SPSI MKII_.
+A bunch of drum/synth kits that I made for the [_Elektron_](https://www.elektron.se/) _MachineDrum SPSI MKII_. \
 The repo will be updated periodically.
 
 ## How To
 For this task you have to connect your machine to your PC through a MIDI cable. 
 In order to load the [sysex](http://midi.teragonaudio.com/tech/midispec/sysex.htm) file into your machine, you can use the official [C6 SysEx Manager](https://www.elektron.se/wp-content/uploads/2019/10/Elektron_C6_MAC_AND_WIN_1.51.zip). **But**, keep in mind that from _macOS 10.15 Catalina_, Apple will not support 32-bit software, so it will no longer be possible to use C6 with your Elektron devices. \
-To overcome this problem, an alternative solution could be [SysEx Librarian](https://www.snoize.com/SysExLibrarian/). \ 
-More info [here](https://www.elektronauts.com/news/486).
+To overcome this problem, an alternative solution could be [SysEx Librarian](https://www.snoize.com/SysExLibrarian/). 
+
+
+More related info [here](https://www.elektronauts.com/news/486).
 
 
 If you are not familiar with sysex transfer, please refere to the [official manual](https://www.elektron.se/wp-content/uploads/2016/05/machinedrum_manual_OS1.63.pdf), section `global settings / file / sysex receive` (page 66). \
 In addition, if you want to place this kit after your personal kit, please refere to the section `./ specific place sysex receive` (page 68).
 
-**If you have the [machine](https://www.elektron.se/legacy-products/)**, I kindly suggest you to use the sysex file instead of the samples! _Elektron_ machines are beatiful worlds ready to explore, having a lot of stuff regarding randomicity, pattern configuration, LFOs, I/O routing and effects. 
+**If you have the [machine](https://www.elektron.se/legacy-products/)**, I kindly suggest you to use the sysex file instead of the samples! \
+_Elektron_ machines are beatiful worlds ready to explore, having a lot of stuff regarding randomicity, pattern configuration, LFOs, I/O routing and effects. 
 
 ## Configuration Details
 
 ![Screenshot](machinedrum_top.png)
-
-![alt text](machinedrum_top.png "Title")
-
-<p align="center"><img src="machinedrum_top.png"></p>
-
 
 ## Specifics
 
